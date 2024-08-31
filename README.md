@@ -1,3 +1,17 @@
+# Todo List App
+
+A simple, interactive todo list application built with React.
+
+## Description
+
+This app allows users to create, manage, and track their todo items. Users can add new tasks, mark them as complete, and delete them when finished.
+
+## Installation
+
+To run this project locally:
+
+1. Clone the repository
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
